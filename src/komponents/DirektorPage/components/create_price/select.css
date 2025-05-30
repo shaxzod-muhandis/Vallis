@@ -1,0 +1,40 @@
+.react-select {
+  width: 320px;
+  height: 39px;
+}
+
+.react-select > .css-yk16xz-control {
+  height: 100%;
+}
+.react-select > .css-yk16xz-control .css-1hwfws3 {
+  height: 100%;
+}
+.react-select > .css-1pahdxg-control {
+  height: 100%;
+}
+
+.react-select > .css-tlfecz-indicatorContainer {
+  position: absolute;
+  left: 30px;
+  top: 0px;
+}
+
+.react-select > .css-yk16xz-control > .css-g1d714-ValueContainer {
+  height: 100%;
+}
+
+.react-select__option {
+  background-color: red !important;
+}
+
+.css-4ljt47-MenuList div {
+  display: flex !important;
+  width: 100% !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+  font-size: 14px !important;
+  color: black !important;
+}
+.css-1rhbuit-multiValue {
+  margin-bottom: 15px !important;
+}
